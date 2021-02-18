@@ -1,3 +1,3 @@
 # hello-world
 Min første GitHub Repository
-og dette er min føste ændring en banchen readme-edits 
+så blev min første ændring slettes og en ny linje tilføjet
